@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 
 size=int(input("Enter the size of Hashtable: "))
 num_l=[-1 for i in range(size)]
@@ -108,12 +103,3 @@ if(n<size):
     add_data(n)
 display()
 search()
-            
-        
-
-
-# In[ ]:
-
-
-
-
