@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 
 Hashtable=[[]for i in range(10)]
 
@@ -64,10 +59,4 @@ while(ch):
     elif(ch==4):
         name=input("Enter name: ")
         search(Hashtable,name)
-
-
-# In[ ]:
-
-
-
 
